@@ -1,0 +1,1024 @@
+[{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dd8"
+  },
+  "MatchID": 1,
+  "Date": {
+    "$date": "2014-06-12T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Brazil",
+  "Team2": "Croatia",
+  "Team1Score": 3,
+  "Team2Score": 1,
+  "Stadium": "Arena de Sao Paulo",
+  "HostCity": "Sao Paulo"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dd9"
+  },
+  "MatchID": 2,
+  "Date": {
+    "$date": "2014-06-13T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Mexico",
+  "Team2": "Cameroon",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Estadio das Dunas",
+  "HostCity": "Natal"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dda"
+  },
+  "MatchID": 3,
+  "Date": {
+    "$date": "2014-06-13T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Spain",
+  "Team2": "Netherlands",
+  "Team1Score": 1,
+  "Team2Score": 5,
+  "Stadium": "Arena Fonte Nova",
+  "HostCity": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2ddb"
+  },
+  "MatchID": 4,
+  "Date": {
+    "$date": "2014-06-13T00:00:00.000Z"
+  },
+  "StartTime": "18:00:00",
+  "Team1": "Chile",
+  "Team2": "Australia",
+  "Team1Score": 3,
+  "Team2Score": 1,
+  "Stadium": "Arena Pantanal",
+  "HostCity": "Cuiaba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2ddc"
+  },
+  "MatchID": 5,
+  "Date": {
+    "$date": "2014-06-14T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Columbia",
+  "Team2": "Greece",
+  "Team1Score": 3,
+  "Team2Score": 0,
+  "Stadium": "Estadio Mineirao",
+  "HostCity": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2ddd"
+  },
+  "MatchID": 6,
+  "Date": {
+    "$date": "2014-06-14T00:00:00.000Z"
+  },
+  "StartTime": "22:00:00",
+  "Team1": "Ivory Coast",
+  "Team2": "Japan",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Arena Pernamuco",
+  "HostCity": "Recife"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dde"
+  },
+  "MatchID": 7,
+  "Date": {
+    "$date": "2014-06-14T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Uruguay",
+  "Team2": "Costa Rica",
+  "Team1Score": 1,
+  "Team2Score": 3,
+  "Stadium": "Estadio Castelao",
+  "HostCity": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2ddf"
+  },
+  "MatchID": 8,
+  "Date": {
+    "$date": "2014-06-14T00:00:00.000Z"
+  },
+  "StartTime": "18:00:00",
+  "Team1": "England",
+  "Team2": "Italy",
+  "Team1Score": 1,
+  "Team2Score": 2,
+  "Stadium": "Arena Amazonia",
+  "HostCity": "Manaus"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de0"
+  },
+  "MatchID": 9,
+  "Date": {
+    "$date": "2014-06-15T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Switzerland",
+  "Team2": "Ecuador",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de1"
+  },
+  "MatchID": 10,
+  "Date": {
+    "$date": "2014-06-15T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "France",
+  "Team2": "Honduras",
+  "Team1Score": 3,
+  "Team2Score": 0,
+  "Stadium": "Estadio Beira-Rio",
+  "HostCity": "Porto Alegre"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de2"
+  },
+  "MatchID": 11,
+  "Date": {
+    "$date": "2014-06-15T00:00:00.000Z"
+  },
+  "StartTime": "19:00:00",
+  "Team1": "Argentina",
+  "Team2": "Bosnia & Herzegovina",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de3"
+  },
+  "MatchID": 12,
+  "Date": {
+    "$date": "2014-06-16T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Iran",
+  "Team2": "Nigeria",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Arena Da Baixada",
+  "HostCity": "Curitiba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de4"
+  },
+  "MatchID": 13,
+  "Date": {
+    "$date": "2014-06-16T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Germany",
+  "Team2": "Portugal",
+  "Team1Score": 4,
+  "Team2Score": 0,
+  "Stadium": "Arena Fonte Nova",
+  "HostCity": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de5"
+  },
+  "MatchID": 14,
+  "Date": {
+    "$date": "2014-06-16T00:00:00.000Z"
+  },
+  "StartTime": "19:00:00",
+  "Team1": "Ghana",
+  "Team2": "USA",
+  "Team1Score": 1,
+  "Team2Score": 2,
+  "Stadium": "Estadio das Dunas",
+  "HostCity": "Natal"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de6"
+  },
+  "MatchID": 15,
+  "Date": {
+    "$date": "2014-06-17T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Belgium",
+  "Team2": "Algeria",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Mineirao",
+  "HostCity": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de7"
+  },
+  "MatchID": 16,
+  "Date": {
+    "$date": "2014-06-17T00:00:00.000Z"
+  },
+  "StartTime": "18:00:00",
+  "Team1": "Russia",
+  "Team2": "South Korea",
+  "Team1Score": 1,
+  "Team2Score": 1,
+  "Stadium": "Arena Pantanal",
+  "HostCity": "Cuiaba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de8"
+  },
+  "MatchID": 17,
+  "Date": {
+    "$date": "2014-06-17T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Brazil",
+  "Team2": "Mexico",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Estadio Castelao",
+  "HostCity": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2de9"
+  },
+  "MatchID": 18,
+  "Date": {
+    "$date": "2014-06-18T00:00:00.000Z"
+  },
+  "StartTime": "18:00:00",
+  "Team1": "Cameroon",
+  "Team2": "Croatia",
+  "Team1Score": 0,
+  "Team2Score": 4,
+  "Stadium": "Arena Amazonia",
+  "HostCity": "Manaus"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dea"
+  },
+  "MatchID": 19,
+  "Date": {
+    "$date": "2014-06-18T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Spain",
+  "Team2": "Chile",
+  "Team1Score": 0,
+  "Team2Score": 2,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2deb"
+  },
+  "MatchID": 20,
+  "Date": {
+    "$date": "2014-06-18T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Australia",
+  "Team2": "Netherlands",
+  "Team1Score": 2,
+  "Team2Score": 3,
+  "Stadium": "Estadio Beira-Rio",
+  "HostCity": "Porto Alegre"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dec"
+  },
+  "MatchID": 21,
+  "Date": {
+    "$date": "2014-06-19T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Columbia",
+  "Team2": "Ivory Coast",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2ded"
+  },
+  "MatchID": 22,
+  "Date": {
+    "$date": "2014-06-19T00:00:00.000Z"
+  },
+  "StartTime": "19:00:00",
+  "Team1": "Japan",
+  "Team2": "Greece",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Estadio das Dunas",
+  "HostCity": "Natal"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dee"
+  },
+  "MatchID": 23,
+  "Date": {
+    "$date": "2014-06-19T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Uruguay",
+  "Team2": "England",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Arena de Sao Paulo",
+  "HostCity": "Sao Paulo"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2def"
+  },
+  "MatchID": 24,
+  "Date": {
+    "$date": "2014-06-20T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Italy",
+  "Team2": "Costa Rica",
+  "Team1Score": 0,
+  "Team2Score": 1,
+  "Stadium": "Arena Pernamuco",
+  "HostCity": "Recife"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df0"
+  },
+  "MatchID": 25,
+  "Date": {
+    "$date": "2014-06-20T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Switzerland",
+  "Team2": "France",
+  "Team1Score": 2,
+  "Team2Score": 5,
+  "Stadium": "Arena Fonte Nova",
+  "HostCity": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df1"
+  },
+  "MatchID": 26,
+  "Date": {
+    "$date": "2014-06-20T00:00:00.000Z"
+  },
+  "StartTime": "19:00:00",
+  "Team1": "Honduras",
+  "Team2": "Ecuador",
+  "Team1Score": 1,
+  "Team2Score": 2,
+  "Stadium": "Arena Da Baixada",
+  "HostCity": "Curitiba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df2"
+  },
+  "MatchID": 27,
+  "Date": {
+    "$date": "2014-06-21T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Argentina",
+  "Team2": "Iran",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Estadio Mineirao",
+  "HostCity": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df3"
+  },
+  "MatchID": 28,
+  "Date": {
+    "$date": "2014-06-21T00:00:00.000Z"
+  },
+  "StartTime": "18:00:00",
+  "Team1": "Nigeria",
+  "Team2": "Bosnia & Herzegovina",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Arena Pantanal",
+  "HostCity": "Cuiaba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df4"
+  },
+  "MatchID": 29,
+  "Date": {
+    "$date": "2014-06-21T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Germany",
+  "Team2": "Ghana",
+  "Team1Score": 2,
+  "Team2Score": 2,
+  "Stadium": "Estadio Castelao",
+  "HostCity": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df5"
+  },
+  "MatchID": 30,
+  "Date": {
+    "$date": "2014-06-22T00:00:00.000Z"
+  },
+  "StartTime": "18:00:00",
+  "Team1": "USA",
+  "Team2": "Portugal",
+  "Team1Score": 2,
+  "Team2Score": 2,
+  "Stadium": "Arena Amazonia",
+  "HostCity": "Manaus"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df6"
+  },
+  "MatchID": 31,
+  "Date": {
+    "$date": "2014-06-22T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Belgium",
+  "Team2": "Russia",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df7"
+  },
+  "MatchID": 32,
+  "Date": {
+    "$date": "2014-06-22T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "South Korea",
+  "Team2": "Algeria",
+  "Team1Score": 2,
+  "Team2Score": 4,
+  "Stadium": "Estadio Beira-Rio",
+  "HostCity": "Porto Alegre"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df8"
+  },
+  "MatchID": 33,
+  "Date": {
+    "$date": "2014-06-23T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Cameroon",
+  "Team2": "Brazil",
+  "Team1Score": 1,
+  "Team2Score": 4,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2df9"
+  },
+  "MatchID": 34,
+  "Date": {
+    "$date": "2014-06-23T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Croatia",
+  "Team2": "Mexico",
+  "Team1Score": 1,
+  "Team2Score": 3,
+  "Stadium": "Arena Pernamuco",
+  "HostCity": "Recife"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dfa"
+  },
+  "MatchID": 35,
+  "Date": {
+    "$date": "2014-06-23T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Australia",
+  "Team2": "Spain",
+  "Team1Score": 0,
+  "Team2Score": 3,
+  "Stadium": "Arena Da Baixada",
+  "HostCity": "Curitiba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dfb"
+  },
+  "MatchID": 36,
+  "Date": {
+    "$date": "2014-06-23T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Netherlands",
+  "Team2": "Chile",
+  "Team1Score": 2,
+  "Team2Score": 0,
+  "Stadium": "Arena de Sao Paulo",
+  "HostCity": "Sao Paulo"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dfc"
+  },
+  "MatchID": 37,
+  "Date": {
+    "$date": "2014-06-24T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Japan",
+  "Team2": "Columbia",
+  "Team1Score": 1,
+  "Team2Score": 4,
+  "Stadium": "Arena Pantanal",
+  "HostCity": "Cuiaba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dfd"
+  },
+  "MatchID": 38,
+  "Date": {
+    "$date": "2014-06-24T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Greece",
+  "Team2": "Ivory Coast",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Castelao",
+  "HostCity": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dfe"
+  },
+  "MatchID": 39,
+  "Date": {
+    "$date": "2014-06-24T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Italy",
+  "Team2": "Uruguay",
+  "Team1Score": 0,
+  "Team2Score": 1,
+  "Stadium": "Estadio das Dunas",
+  "HostCity": "Natal"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2dff"
+  },
+  "MatchID": 40,
+  "Date": {
+    "$date": "2014-06-24T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Costa Rica",
+  "Team2": "England",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Estadio Mineirao",
+  "HostCity": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e00"
+  },
+  "MatchID": 41,
+  "Date": {
+    "$date": "2014-06-25T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Honduras",
+  "Team2": "Switzerland",
+  "Team1Score": 0,
+  "Team2Score": 3,
+  "Stadium": "Arena Amazonia",
+  "HostCity": "Manaus"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e01"
+  },
+  "MatchID": 42,
+  "Date": {
+    "$date": "2014-06-25T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Ecuador",
+  "Team2": "France",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e02"
+  },
+  "MatchID": 43,
+  "Date": {
+    "$date": "2014-06-25T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Nigeria",
+  "Team2": "Argentina",
+  "Team1Score": 2,
+  "Team2Score": 3,
+  "Stadium": "Estadio Beira-Rio",
+  "HostCity": "Porto Alegre"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e03"
+  },
+  "MatchID": 44,
+  "Date": {
+    "$date": "2014-06-25T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Bosnia & Herzegovina",
+  "Team2": "Iran",
+  "Team1Score": 3,
+  "Team2Score": 1,
+  "Stadium": "Arena Fonte Nova",
+  "HostCity": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e04"
+  },
+  "MatchID": 45,
+  "Date": {
+    "$date": "2014-06-26T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "USA",
+  "Team2": "Germany",
+  "Team1Score": 0,
+  "Team2Score": 1,
+  "Stadium": "Arena Pernamuco",
+  "HostCity": "Recife"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e05"
+  },
+  "MatchID": 46,
+  "Date": {
+    "$date": "2014-06-26T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Portugal",
+  "Team2": "Ghana",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e06"
+  },
+  "MatchID": 47,
+  "Date": {
+    "$date": "2014-06-26T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "South Korea",
+  "Team2": "Belgium",
+  "Team1Score": 0,
+  "Team2Score": 1,
+  "Stadium": "Arena de Sao Paulo",
+  "HostCity": "Sao Paulo"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e07"
+  },
+  "MatchID": 48,
+  "Date": {
+    "$date": "2014-06-26T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Algeria",
+  "Team2": "Russia",
+  "Team1Score": 1,
+  "Team2Score": 1,
+  "Stadium": "Arena Da Baixada",
+  "HostCity": "Curitiba"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e08"
+  },
+  "MatchID": 49,
+  "Date": {
+    "$date": "2014-06-28T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Brazil",
+  "Team2": "Chile",
+  "Team1Score": 1,
+  "Team2Score": 1,
+  "Stadium": "Estadio Mineirao",
+  "HostCity": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e09"
+  },
+  "MatchID": 50,
+  "Date": {
+    "$date": "2014-06-28T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Columbia",
+  "Team2": "Uruguay",
+  "Team1Score": 2,
+  "Team2Score": 0,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e0a"
+  },
+  "MatchID": 51,
+  "Date": {
+    "$date": "2014-06-29T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Netherlands",
+  "Team2": "Mexico",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Castelao",
+  "HostCity": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e0b"
+  },
+  "MatchID": 52,
+  "Date": {
+    "$date": "2014-06-29T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Costa Rica",
+  "Team2": "Greece",
+  "Team1Score": 1,
+  "Team2Score": 1,
+  "Stadium": "Arena Pernamuco",
+  "HostCity": "Recife"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e0c"
+  },
+  "MatchID": 53,
+  "Date": {
+    "$date": "2014-06-30T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "France",
+  "Team2": "Nigeria",
+  "Team1Score": 2,
+  "Team2Score": 0,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e0d"
+  },
+  "MatchID": 54,
+  "Date": {
+    "$date": "2014-06-30T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Germany",
+  "Team2": "Algeria",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Beira-Rio",
+  "HostCity": "Porto Alegre"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e0e"
+  },
+  "MatchID": 55,
+  "Date": {
+    "$date": "2014-07-01T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Argentina",
+  "Team2": "Switzerland",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Arena de Sao Paulo",
+  "HostCity": "Sao Paulo"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e0f"
+  },
+  "MatchID": 56,
+  "Date": {
+    "$date": "2014-07-01T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Belgium",
+  "Team2": "USA",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Arena Fonte Nova",
+  "HostCity": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e10"
+  },
+  "MatchID": 57,
+  "Date": {
+    "$date": "2014-07-04T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Brazil",
+  "Team2": "Columbia",
+  "Team1Score": 2,
+  "Team2Score": 1,
+  "Stadium": "Estadio Castelao",
+  "HostCity": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e11"
+  },
+  "MatchID": 58,
+  "Date": {
+    "$date": "2014-07-04T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "France",
+  "Team2": "Germany",
+  "Team1Score": 0,
+  "Team2Score": 1,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e12"
+  },
+  "MatchID": 59,
+  "Date": {
+    "$date": "2014-07-05T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Netherlands",
+  "Team2": "Costa Rica",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Arena Fonte Nova",
+  "HostCity": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e13"
+  },
+  "MatchID": 60,
+  "Date": {
+    "$date": "2014-07-05T00:00:00.000Z"
+  },
+  "StartTime": "13:00:00",
+  "Team1": "Argentina",
+  "Team2": "Belgium",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e14"
+  },
+  "MatchID": 61,
+  "Date": {
+    "$date": "2014-07-08T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Brazil",
+  "Team2": "Germany",
+  "Team1Score": 1,
+  "Team2Score": 7,
+  "Stadium": "Estadio Mineirao",
+  "HostCity": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e15"
+  },
+  "MatchID": 62,
+  "Date": {
+    "$date": "2014-07-09T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Netherlands",
+  "Team2": "Argentina",
+  "Team1Score": 0,
+  "Team2Score": 0,
+  "Stadium": "Arena de Sao Paulo",
+  "HostCity": "Sao Paulo"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e16"
+  },
+  "MatchID": 63,
+  "Date": {
+    "$date": "2014-07-12T00:00:00.000Z"
+  },
+  "StartTime": "17:00:00",
+  "Team1": "Brazil",
+  "Team2": "Netherlands",
+  "Team1Score": 0,
+  "Team2Score": 3,
+  "Stadium": "Estadio Nacional",
+  "HostCity": "Brasilia"
+},
+{
+  "_id": {
+    "$oid": "670d98e471c0d4893abf2e17"
+  },
+  "MatchID": 64,
+  "Date": {
+    "$date": "2014-07-13T00:00:00.000Z"
+  },
+  "StartTime": "16:00:00",
+  "Team1": "Germany",
+  "Team2": "Argentina",
+  "Team1Score": 1,
+  "Team2Score": 0,
+  "Stadium": "Estadio do Maracana",
+  "HostCity": "Rio De Janerio"
+}]
